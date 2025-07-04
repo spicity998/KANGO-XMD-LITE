@@ -16,7 +16,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //--------------------[ SESSION ID ]----------------------//
 
 global.SESSION_ID = process.env.SESSION_ID || '' 
-KANGO~xuM2AIRa#TtpBgM904NffITsluZu64jrwbg63jCF_Y4PCUOxlIJU must start with KANGO~
+KANGO~xuM2AIRa#TtpBgM904NffITsluZu64jrwbg63jCF_Y4PCUOxlIJU
 
 //--------------------[ BOT NAME ]----------------------//
 
